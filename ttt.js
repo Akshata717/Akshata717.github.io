@@ -124,7 +124,7 @@ for (var i = 0; i < 3; i++) {
 function setup() {
   
   createCanvas(500, 500);
-  background("#CFC1D1");
+  background("#f5545fff");
   textSize("12");
   line(166, 0, 166, 500);
   line(332, 0, 332, 500);
